@@ -43,3 +43,6 @@ next-env.d.ts
 # project instructions with secrets
 claude.md
 CLAUDE.md
+
+.vercel
+.env*
